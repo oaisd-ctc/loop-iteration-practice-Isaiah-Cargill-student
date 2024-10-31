@@ -4,10 +4,10 @@
         "comments": false,
         "strings": false
     },
-    "editor.wordBasedSuggestions": "off",
+    "editor.wordBasedSuggestions": "allDocuments",
     "editor.suggestOnTriggerCharacters": false,
     "editor.parameterHints.enabled": false,
-    "editor.hover.enabled": false,
+    "editor.hover.enabled": true,
     "editor.inlineSuggest.enabled": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
 }
